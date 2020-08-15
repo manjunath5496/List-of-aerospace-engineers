@@ -1,6 +1,6 @@
-<div id="toc" class="toc plainlinks hlist">
-<div id="toctitle" class="toctitle"><strong><span id="tocheading">Contents</span></strong></div>
-<div>
+<h2>List of aerospace engineers </h2>
+<p><strong><span id="tocheading">Contents</span></strong></p>
+
 <ul>
 <li><a href="#A">A</a></li>
 <li><a href="#B">B</a></li>
@@ -29,8 +29,7 @@
 <li><a href="#Y">Y</a></li>
 <li><a href="#Z">Z</a></li>
 </ul>
-</div>
-</div>
+
 <h2><span id="A" class="mw-headline">A</span></h2>
 <ul>
 <li><a title="Cl&eacute;ment Ader" href="https://en.wikipedia.org/wiki/Cl%C3%A9ment_Ader">Cl&eacute;ment Ader</a>&nbsp;(1841&ndash;1925) &ndash; French engineer and inventor</li>
