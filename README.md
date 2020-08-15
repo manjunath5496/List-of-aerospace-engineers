@@ -69,7 +69,7 @@
 <h2><span id="D" class="mw-headline">D</span></h2>
 <ul>
 <li><a title="Leonardo da Vinci" href="https://en.wikipedia.org/wiki/Leonardo_da_Vinci">Leonardo da Vinci</a>&nbsp;(1452&ndash;1519)</li>
-<li><a title="Werner Dahm" href="https://en.wikipedia.org/wiki/Werner_Dahm">Werner Dahm</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></li>
+<li><a title="Werner Dahm" href="https://en.wikipedia.org/wiki/Werner_Dahm">Werner Dahm</a></li>
 <li><a title="Marcel Dassault" href="https://en.wikipedia.org/wiki/Marcel_Dassault">Marcel Dassault</a>&nbsp;(1892&ndash;1986)</li>
 <li><a title="Serge Dassault" href="https://en.wikipedia.org/wiki/Serge_Dassault">Serge Dassault</a>&nbsp;(1925&ndash;2018)</li>
 <li><a title="Geoffrey de Havilland" href="https://en.wikipedia.org/wiki/Geoffrey_de_Havilland">Geoffrey de Havilland</a>&nbsp;(1882&ndash;1965)</li>
