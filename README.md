@@ -1,6 +1,5 @@
-<h2>List of aerospace engineers </h2>
+<h2>List of aerospace engineers</h2>
 <p><strong><span id="tocheading">Contents</span></strong></p>
-
 <ul>
 <li><a href="#A">A</a></li>
 <li><a href="#B">B</a></li>
@@ -29,7 +28,6 @@
 <li><a href="#Y">Y</a></li>
 <li><a href="#Z">Z</a></li>
 </ul>
-
 <h2><span id="A" class="mw-headline">A</span></h2>
 <ul>
 <li><a title="Cl&eacute;ment Ader" href="https://en.wikipedia.org/wiki/Cl%C3%A9ment_Ader">Cl&eacute;ment Ader</a>&nbsp;(1841&ndash;1925) &ndash; French engineer and inventor</li>
@@ -44,7 +42,7 @@
 <li><a class="mw-redirect" title="V. P. Barmin" href="https://en.wikipedia.org/wiki/V._P._Barmin">V. P. Barmin</a>&nbsp;&ndash; designer of the rocket&nbsp;<a class="mw-redirect" title="Launch complex" href="https://en.wikipedia.org/wiki/Launch_complex">launch complex</a></li>
 <li><a title="Frank Barnwell" href="https://en.wikipedia.org/wiki/Frank_Barnwell">Frank Barnwell</a>&nbsp;(1880&ndash;1938) &ndash; chief engineer,&nbsp;<a title="Bristol Aeroplane Company" href="https://en.wikipedia.org/wiki/Bristol_Aeroplane_Company">Bristol Aeroplane Company</a></li>
 <li><a title="Thomas W. Benoist" href="https://en.wikipedia.org/wiki/Thomas_W._Benoist">Thomas W. Benoist</a>&nbsp;(1874&ndash;1917) &ndash; early&nbsp;<a title="Airline" href="https://en.wikipedia.org/wiki/Airline">airline</a>&nbsp;entrepreneur</li>
-<li><a title="Jenny Body" href="https://en.wikipedia.org/wiki/Jenny_Body">Jenny Body</a>&nbsp;&ndash; former President of the Royal Aeronautical Society<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></li>
+<li><a title="Jenny Body" href="https://en.wikipedia.org/wiki/Jenny_Body">Jenny Body</a>&nbsp;&ndash; former President of the Royal Aeronautical Society</li>
 <li><a class="mw-redirect" title="William Boeing" href="https://en.wikipedia.org/wiki/William_Boeing">William Boeing</a>&nbsp;&ndash; founder of&nbsp;<a title="Boeing" href="https://en.wikipedia.org/wiki/Boeing">Boeing</a></li>
 <li><a title="Charles Bolden" href="https://en.wikipedia.org/wiki/Charles_Bolden">Charles Bolden</a>&nbsp;&ndash;&nbsp;<a class="mw-redirect" title="NASA Administrator" href="https://en.wikipedia.org/wiki/NASA_Administrator">NASA Administrator</a></li>
 <li><a title="Ludwig B&ouml;lkow" href="https://en.wikipedia.org/wiki/Ludwig_B%C3%B6lkow">Ludwig B&ouml;lkow</a>&nbsp;&ndash; aerodynamicist for the&nbsp;<a class="mw-redirect" title="Me 262" href="https://en.wikipedia.org/wiki/Me_262">Me 262</a></li>
@@ -198,7 +196,7 @@
 <li><a title="Percy Pilcher" href="https://en.wikipedia.org/wiki/Percy_Pilcher">Percy Pilcher</a></li>
 <li><a title="Curtis Pitts" href="https://en.wikipedia.org/wiki/Curtis_Pitts">Curtis Pitts</a>&nbsp;(1915&ndash;2005)</li>
 <li><a title="Paul Poberezny" href="https://en.wikipedia.org/wiki/Paul_Poberezny">Paul Poberezny</a>&nbsp;(1921&ndash;2013) &ndash; founder of the&nbsp;<a title="Experimental Aircraft Association" href="https://en.wikipedia.org/wiki/Experimental_Aircraft_Association">Experimental Aircraft Association</a></li>
-<li><a class="mw-redirect" title="Boris Popov (inventor)" href="https://en.wikipedia.org/wiki/Boris_Popov_(inventor)">Boris Popov</a>&nbsp;&ndash; invented one of the first successful aircraft&nbsp;<a title="Ballistic parachute" href="https://en.wikipedia.org/wiki/Ballistic_parachute">ballistic parachute</a>&nbsp;systems<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></li>
+<li><a class="mw-redirect" title="Boris Popov (inventor)" href="https://en.wikipedia.org/wiki/Boris_Popov_(inventor)">Boris Popov</a>&nbsp;&ndash; invented one of the first successful aircraft&nbsp;<a title="Ballistic parachute" href="https://en.wikipedia.org/wiki/Ballistic_parachute">ballistic parachute</a>&nbsp;systems</li>
 <li><a title="Henry Potez" href="https://en.wikipedia.org/wiki/Henry_Potez">Henry Potez</a></li>
 <li><a title="Herman Potočnik" href="https://en.wikipedia.org/wiki/Herman_Poto%C4%8Dnik">Herman Potočnik</a>&nbsp;(1892&ndash;1929)</li>
 <li><a title="Ludwig Prandtl" href="https://en.wikipedia.org/wiki/Ludwig_Prandtl">Ludwig Prandtl</a></li>
@@ -254,7 +252,7 @@
 </ul>
 <h2><span id="W" class="mw-headline">W</span></h2>
 <ul>
-<li><a class="mw-redirect" title="Dwane L. Wallace" href="https://en.wikipedia.org/wiki/Dwane_L._Wallace">Dwane L. Wallace</a>&nbsp;(1911&ndash;1989) &ndash; early&nbsp;<a title="Cessna" href="https://en.wikipedia.org/wiki/Cessna">Cessna</a>&nbsp;CEO and designer<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></li>
+<li><a class="mw-redirect" title="Dwane L. Wallace" href="https://en.wikipedia.org/wiki/Dwane_L._Wallace">Dwane L. Wallace</a>&nbsp;(1911&ndash;1989) &ndash; early&nbsp;<a title="Cessna" href="https://en.wikipedia.org/wiki/Cessna">Cessna</a>&nbsp;CEO and designer</li>
 <li><a title="Barnes Wallis" href="https://en.wikipedia.org/wiki/Barnes_Wallis">Sir Barnes Wallis</a>&nbsp;(1887&ndash;1979)</li>
 <li><a title="Ken Wallis" href="https://en.wikipedia.org/wiki/Ken_Wallis">Ken Wallis</a>&nbsp;MBE &ndash;&nbsp;<a title="Autogyro" href="https://en.wikipedia.org/wiki/Autogyro">autogyro</a></li>
 <li><a title="Hellmuth Walter" href="https://en.wikipedia.org/wiki/Hellmuth_Walter">Hellmuth Walter</a>&nbsp;(1900&ndash;1980) &ndash;&nbsp;<a class="mw-redirect" title="Rocket engines" href="https://en.wikipedia.org/wiki/Rocket_engines">rocket engines</a></li>
